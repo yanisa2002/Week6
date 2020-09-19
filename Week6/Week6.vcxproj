@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="cutNum.cpp" />
     <ClCompile Include="divfactor.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
