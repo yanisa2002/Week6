@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exponential.cpp">
+    <ClCompile Include="divfactor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
